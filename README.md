@@ -13,3 +13,9 @@ public class SimpleInterestCalculator {
         System.out.println("The simple interest is: " + simpleInterest);
     }
 }
+Output 
+Enter the principal amount: 10000
+Enter the annual rate of interest (in %): 5
+Enter the time (in years): 2
+The simple interest is: 1000.0
+
